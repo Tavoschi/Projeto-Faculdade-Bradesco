@@ -12,7 +12,7 @@ public class ConexaoBD {
     
     private static final String URL = "jdbc:mysql://localhost:3306/clientes"; //Alterar quando necessário 
     private static final String USER = "root"; //Alterar quando necessário 
-    private static final String PASSWORD = "35863498Gu."; //Alterar quando necessário 
+    private static final String PASSWORD = ""; //Alterar quando necessário 
     
     //private static final String URL = "jdbc:h2:~/clientes";
     //private static final String USER = "sa";
@@ -30,3 +30,4 @@ public class ConexaoBD {
     }
     
 }
+
